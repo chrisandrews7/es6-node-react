@@ -5,6 +5,9 @@ logs
 # Secrets
 secrets.js
 
+# Build
+dist
+
 # Runtime data
 pids
 *.pid
